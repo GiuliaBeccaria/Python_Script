@@ -30,9 +30,8 @@ Explore the Jupyter notebooks for detailed analysis and visualizations.
 Run the predictive model script to generate forecasts for the upcoming NBA season.
 
 ### Contributors
-Giulia Beccaria
-Alessandro Degani
-Roberta Di Santo
+Alessandro Degani,
+Roberta Di Santo,
 Lorenzo Lobosco
 
 ### Future Developments
